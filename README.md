@@ -4,7 +4,7 @@ Script python auto claim Gh/s website https://cryptoplace.cloud/?ref=kyuoko13
 # How To Run 
 - apt update && pkg upgrade
 - apt install python git curl
-- git clone https://github.com/kyo1337/cryptoplace
+- git clone https://github.com/tommydear/cryptoplace
 - cd cryptoplace
 - pip install requests
 - pip install bs4
